@@ -18,5 +18,6 @@ public class GitTest
         System.out.println("hello world");
         System.out.println("i am new version");
         System.out.println("hahaha");
+        System.out.println("remote change hot-fix");
     }
 }
