@@ -16,6 +16,6 @@ public class GitTest
         System.out.println("hot-fix test");
         System.out.println("push test");
         System.out.println("hello world");
-        System.out.println("pull new version");
+        System.out.println("i am new version");
     }
 }
